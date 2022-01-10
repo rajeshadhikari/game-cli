@@ -1,0 +1,12 @@
+{
+    "name": "rajeshadhikari/mazegame",
+    "description": "Game with a CLI interface.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
