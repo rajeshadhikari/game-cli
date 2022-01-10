@@ -1,6 +1,7 @@
 # PHP CLI APPLICATION
 ```sh
 git clone https://github.com/rajeshadhikari/game-cli.git
+cd game-cli
 composer install
 php index.php
 ```
